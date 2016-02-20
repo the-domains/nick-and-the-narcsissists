@@ -1,6 +1,6 @@
 name: 'Nick & the Narcsissists'
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.55027
 typography_spectrum: 0.05836
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0
-  lightness: 0.125
+  lightness: 0.4375
   saturation: 0
   rhythmicContrast: 1
 purpose: []

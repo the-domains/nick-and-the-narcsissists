@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nick & the Narcsissists]]></title>
         <description><![CDATA[Nick & the Narcsissists]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nick-and-the-narcsissists/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 02:52:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 04:00:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nick-and-the-narcsissists/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9294022-45d7-4933-bde4-8a018b5dccbc.jpg">]]></description>
-            <link>undefined49e44e25-89d5-405a-ab16-11b0bae1a6da/index.html</link>
+            <link>https://thegrid.ai/nick-and-the-narcsissists/49e44e25-89d5-405a-ab16-11b0bae1a6da/index.html</link>
             <guid isPermaLink="false">49e44e25-89d5-405a-ab16-11b0bae1a6da</guid>
-            <pubDate>Fri, 19 Feb 2016 02:52:03 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 04:00:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

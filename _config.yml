@@ -1,7 +1,7 @@
 name: 'Nick & the Narcsissists'
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.05836
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -17,12 +17,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#080609'
-    - '#0000ff'
-    - '#0080ff'
-    - '#00ffff'
+    - '#09090b'
+    - '#7f7fff'
+    - '#56ffff'
+    - '#ff0000'
   brandStrength: 0.6875
-  lightness: 0.4375
+  lightness: 0.3125
   saturation: 0.75
   rhythmicContrast: 0.75
 purpose: []
